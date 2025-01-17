@@ -1,5 +1,3 @@
-#https://github.com/Adamantios/KPCA-LDA/blob/master/core/lda.py
-
 import torch
 import warnings
 from typing import Tuple
